@@ -1,5 +1,8 @@
 ### README
 
+##Description
+<strong> Mars Rover Case solution with implemented Java.</strong>
+
 <strong>Running </strong><br/>
 * You can run executable jar to test application like below.<br/>
 * To end rover input and to see output, write "end" to console.<br/>
